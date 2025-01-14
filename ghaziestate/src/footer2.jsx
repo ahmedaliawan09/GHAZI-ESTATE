@@ -7,7 +7,7 @@ const Footer2 = () => {
             <div className="flex justify-center space-x-8">
                 {/* WhatsApp Icon */}
                 <a
-                    href="https://wa.me/03006043724"
+                    href="https://wa.me/923006043724?text=Hello%20I%20need%20help"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-3xl hover:text-green-500"
