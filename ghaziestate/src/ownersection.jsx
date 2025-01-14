@@ -31,13 +31,7 @@ const OwnerSection = () => {
                             </span>
                         </div>
 
-
-
-
-
                     </h2>
-
-
                     <p className="text-lg font-bold text-green-700">Owner of Ghazi Estate</p>
 
                     <p className="text-base text-gray-700">
